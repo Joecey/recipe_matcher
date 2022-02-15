@@ -1,0 +1,12 @@
+Pseudocode and Notes
+
+Problem:
+For the input "food" being an array of available ingredients that the user has in their
+home, create a program that matches "food" with a random corresponding recipe from breakfastapi.
+
+The user should be able to chose from two options:
+    - strict: recipe ingredients should only contain foods that are part of the "food input"
+    - relaxed: any recipe can be used as long as all components of "food" or present
+
+Inputs: available foods
+Outputs: Recipe name, ingredients list, procedure, estimated prep and cook time
