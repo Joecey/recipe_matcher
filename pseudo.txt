@@ -7,6 +7,7 @@ home, create a program that matches "food" with a random corresponding recipe fr
 The user should be able to chose from two options:
     - strict: recipe ingredients should only contain foods that are part of the "food input"
     - relaxed: any recipe can be used as long as all components of "food" or present
+    - lazy: if one ingredient is present in recipe, return recipe
 
 Inputs: available foods
 Outputs: Recipe name, ingredients list, procedure, estimated prep and cook time
