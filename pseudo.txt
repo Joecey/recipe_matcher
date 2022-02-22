@@ -11,3 +11,5 @@ The user should be able to chose from two options:
 
 Inputs: available foods
 Outputs: Recipe name, ingredients list, procedure, estimated prep and cook time
+
+Return error after 100 tries?
